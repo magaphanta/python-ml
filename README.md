@@ -1,2 +1,2 @@
 # python-ml
-Python Course
+Python Course: my first step with Python and ML.
